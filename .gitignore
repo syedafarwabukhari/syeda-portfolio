@@ -1,0 +1,8 @@
+﻿.streamlit/secrets.toml
+__pycache__/
+*.pyc
+main_backup.py
+main_before_design_backup.py
+main_before_emailjs.py
+main_before_motion_backup.py
+main_final_backup.py
